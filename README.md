@@ -14,13 +14,6 @@ I'm a virtual assistant and I'm able to perform all the actions on a simple voic
 
 I'm an AI model that uses speech recognition and voice synthesis to understant the user commands and then look for the matched query and speak the result. 
 
-Presentation of This Model
-
-[final presentation.pptx](https://github.com/Devottam2809/BumbleBee-The-Multi-Purpose-Voice-Assistant/files/10610482/final.presentation.pptx)
-
-Project Report
-[mini project001_merged (1).pdf](https://github.com/Devottam2809/BumbleBee-The-Multi-Purpose-Voice-Assistant/files/11107491/mini.project001_merged.1.pdf)
-
 # Google Drive (Video of model part 1)
 https://drive.google.com/file/d/1sc3gEHt3V4tqNsqSQ60OYyqWQx3nFScA/view?usp=sharing
 
